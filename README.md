@@ -2,9 +2,10 @@
 
 [![Unity](https://img.shields.io/badge/Unity-3D-black?logo=unity)](https://unity.com/) 
 [![ESP32](https://img.shields.io/badge/ESP32-IoT-orange?logo=espressif)](https://www.espressif.com/) 
-[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-4B-C51A4A?logo=raspberrypi)](https://www.raspberrypi.com/)  
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-4B-C51A4A?logo=raspberrypi)](https://www.raspberrypi.com/) 
 [![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://www.python.org/) 
 [![Bluetooth](https://img.shields.io/badge/Bluetooth-5.0-0082FC?logo=bluetooth)](https://www.bluetooth.com/)  
+
 
 <img width="408" height="516" alt="image" src="https://github.com/user-attachments/assets/72682151-095c-43da-8a05-fb84fc82a068" />
 <img width="91" height="93" alt="螢幕擷取畫面 2025-07-26 161513" src="https://github.com/user-attachments/assets/e4e84279-fda8-4bed-8300-e0d91f3a485d" />
